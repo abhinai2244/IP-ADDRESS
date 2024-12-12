@@ -13,7 +13,7 @@ def start(message):
 @bot.message_handler(func=lambda m: True)
 def handle_message(message):
     user_name = message.from_user.first_name
-    button = types.InlineKeyboardButton(text='Owner', url="https://t.me/Hmm_Smokie")
+    button = types.InlineKeyboardButton(text='Owner', url="https://t.me/clutch008")
     markup = types.InlineKeyboardMarkup()
     markup.add(button)
 
