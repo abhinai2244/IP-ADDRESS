@@ -60,7 +60,7 @@ ASN: {asn}
 AS: {as_name}
 Proxy: {is_proxy}
 
-Developed by: """
+Developed by: 💀 Abhinai 💀"""
         
         bot.reply_to(message, message_text, reply_markup=markup)
     except ValueError as ve:
