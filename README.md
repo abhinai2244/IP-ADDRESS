@@ -78,7 +78,7 @@ This bot is hosted locally or on a cloud platform to ensure 24/7 availability.
 It is recommended to secure sensitive tokens using environment variables.
 
 
-														Contact
+														Contact dm telegramid :@clutch008 for commands
 If you encounter any issues or have suggestions for improvement, feel free to contact the developer using the inline button in the bot or via Telegram: @clutch008.
 
 Feel free to customize this README further based on your preferences or additional features you may add to the bot! 😊
